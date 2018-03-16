@@ -1,0 +1,42 @@
+[
+  {
+	"type": "PREDATOR",
+	"name": "Тигр",
+	"image_url": "https://www.myplanet-ua.com/wp-content/uploads/2017/05/%D0%B2%D0%B8%D0%B4%D1%8B-%D1%82%D0%B8%D0%B3%D1%80%D0%BE%D0%B2.jpg"
+  },
+  {
+	"type": "HERBIVORE",
+	"name": "Суслик",
+	"image_url": "https://cs2.livemaster.ru/storage/b2/40/b9d72365ffc02131ea60420cdc0s--kukly-i-igrushki-suslik-bejli-igrushka-iz-shersti.jpg"
+  },
+  {
+	"type": "HERBIVORE",
+	"name": "Жираф",
+	"image_url": "https://nashzeleniymir.ru/wp-content/uploads/2016/05/%D0%90%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D0%B6%D0%B8%D1%80%D0%B0%D1%84.jpg"
+  },
+  {
+	"type": "PREDATOR",
+	"name": "Хомяк",
+	"image_url": "http://petstime.ru/sites/default/files/styles/article-500/public/field/image/syr_1.jpg?itok=GPNoNRnR"
+  },
+  {
+	"type": "PREDATOR",
+	"name": "Волк",
+	"image_url": "https://historytime.ru/wp-content/uploads/2016/10/%D0%B2%D0%BE%D0%BB%D0%BA-770x481.jpg"
+  },
+  {
+	"type": "HERBIVORE",
+	"name": "Капибара",
+	"image_url": "https://cs8.pikabu.ru/post_img/2016/04/17/10/1460915331195780636.jpg"
+  },
+  {
+	"type": "PREDATOR",
+	"name": "Лев",
+	"image_url": "https://vignette.wikia.nocookie.net/zoology/images/f/f8/%D0%9B%D0%B5%D0%B2.jpg/revision/latest?cb=20150104092022&path-prefix=ru"
+  },
+  {
+	"type": "HERBIVORE",
+	"name": "Феннек",
+	"image_url": "http://www.marieclaire.ru/images/th/0/eb29/09ea/665@495@eb2909ea65ac5280749a2ce5e470465e-NzZjNjQxODRjNw.jpg?time=699"
+  }
+]
