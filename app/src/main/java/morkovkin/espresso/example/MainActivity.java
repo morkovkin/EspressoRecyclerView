@@ -17,9 +17,11 @@ import morkovkin.espresso.example.model.Animal;
 import morkovkin.espresso.example.utils.Utils;
 
 
-public class MainActivity extends AppCompatActivity  implements AnimalsAdapter.OnAnimalClickListener{
+public class MainActivity extends AppCompatActivity implements AnimalsAdapter.OnAnimalClickListener {
+	
 	private RecyclerView rvAnimals;
 	private AnimalsAdapter mAnimalsAdapter;
+	
 	@Override
 	protected void onCreate(final Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
